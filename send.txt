@@ -1,0 +1,1 @@
+<input type="text" placeholder="Attendance ID" id="att_id" onkeypress="return isNumber(event)">

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+    
+    <head>
+        <link rel="stylesheet" type="text/css" href="admin.css">
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+         <meta charset="UTF-8">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,300,400,600" rel="stylesheet" type="text/css">
+        <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
+        <title>
+            Admin Teacher details
+        </title>
+    </head>
+    <body>
+   
+       <div id="grad1">
+    <img src="1576077321721.png" id="logo" align="middle">
+           <h2 id=result></h2>
+     <h2 id="teach_1">Teacher Details</h2>
+	
+         <input type="button" value="Home" id="home"><br><br><input type="button" value="Logout" id="logout">
+           <br><br><br><br>
+        
+    <form id="form_1" >
+        
+         <label id="first_name">  Name    </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" placeholder="Name" name="first_name"  id="input_1" onkeypress="return isAlpha(event)"><br>
+            <br>
+            <label id="des"> Designation </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text"  placeholder="Designation"  id="input_2"><br>
+            <br>
+        <label id="id"> Department</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" placeholder="Department" name="last_name"  id="input_3"><br>
+            <br>
+        <label id="Address"> Address </label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" placeholder="Address" name="username"  id="input_4"><br>
+            <br>
+        <label id="user_id"> Email </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <input type="text" placeholder="Email" name="user_id"  id="input_5"><br>
+            <br>
+        <label id="password"> Password &nbsp;</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="password" name="password"  id="input_6" placeholder="Password"><br>
+            <br>
+            <label id="re_pass"> Re-Type Password </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="password" id="input_8" placeholder="Re-type Password">
+            <br><br>
+        <label id="phone_num"> Phone Number </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <input type="text" name="phone_num"  id="input_7" placeholder="Phone Number" onkeydown="return isNumber(event)" onkeypress="return isNumber(event)"><br><br>
+        <br>
+         <input type="button" value="Add" id="submit"><br><br>
+        <input type="button" value="Reset" id="reset" onClick="document.location.reload(true)">
+    
+        
+        </form>
+        </div>
+        <br><br>
+       
+    <script src="admin.js"></script>
+    </body>
+</html>

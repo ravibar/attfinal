@@ -1,0 +1,71 @@
+
+
+#login_form {
+      margin-left: 15%;
+    
+}
+
+#login_head {
+     font-family:  Lucida Console, Courier, monospace;
+    margin-left: 10%;;
+  color: #206ba4;
+    font-size: 50px;
+    
+}
+
+
+
+#username {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+    
+}
+
+#password {
+    font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+
+#logo {
+     margin-left: 30%;
+}
+
+
+#uname {
+      height: 35px;
+     width: 350px;
+    border-radius: 5px;
+}
+
+#uid {
+       height: 35px;
+     width: 350px;
+    border-radius: 5px;
+     
+}
+
+#grad {
+      height:965px;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,skyblue); /* Standard syntax (must be last) */
+}
+
+#logo {
+    margin-left: 35%;
+    height: 150px;
+}
+
+#submit {
+      
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family: serif
+    font-size: 17px;
+    color: skyblues;
+}
+
+

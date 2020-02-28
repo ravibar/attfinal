@@ -1,0 +1,134 @@
+
+#frgt_head {
+     font-size: 24px;
+    color: #2d2e30;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+    
+}
+
+#pass_form {
+      border-radius: 14px;
+  padding: 15px;
+  width:350px;
+     max-width: 100%;
+  height: auto;
+     
+  margin-left: 50px;
+  margin-right: 750px;
+  box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+#pic_1 {
+     border-radius: 14px;
+  padding: 15px;
+  width:350px;
+   
+  height: auto;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+    box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+#pic_4 {
+     margin-right: 300px;
+    border-radius: 4px;
+    padding:5px;
+    
+    height: 350px;
+    box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+#pass_form {
+     border-radius: 14px;
+  padding: 15px;
+  width:350px;
+     max-width: 100%;
+  height: auto;
+     
+  margin-left: 50px;
+  margin-right: 750px;
+  box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+    
+}
+
+#input_1 {
+     border-radius: 9px;
+  background-color: #f2f2f2;
+  padding: 4px;
+     box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+}
+
+#input_2 {
+    border-radius: 9px;
+  background-color: #f2f2f2;
+  padding: 4px;
+     box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+#input_2 {
+    border-radius: 9px;
+  background-color: #f2f2f2;
+  padding: 4px;
+     box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+#login-btn {
+     margin-left: 100px;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+  background-color: #000000;
+  padding: 4px;
+     box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+    font-size: 17px;
+    color: white;
+}
+
+body {
+    background-repeat: no-repeat;
+   
+    height: 100%;
+    background-position: center;
+    background-size:cover;
+}
+#login-btn:hover{
+    background-color: #ffffff;
+    color: black;
+    cursor: pointer;
+}
+#login-btn.hover
+{
+    background-color: #ffffff;
+}
+#pic_2 {
+     height:120px;
+    margin-left: 50px;
+     border-radius: 14px;
+  padding: 15px;
+    box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+#pic_3 {
+      height: 120px;
+    margin-left: 100px;
+     border-radius: 14px;
+  padding: 15px;
+    box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+}
+
+form {
+    
+}
+
+#logo {
+    margin-left: 30%;
+
+}
+
+#re_pass {
+    
+}

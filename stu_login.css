@@ -1,0 +1,210 @@
+
+
+
+
+
+#login_head {
+     font-size: 24px;
+    color: #2d2e30;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#username {
+     font-size: 18px;
+    color: #2d2e30;
+    font-family: "Palatino Linotype", "Book Antiqua";
+    
+}
+
+#input_1 {
+     border-radius: 9px;
+  background-color: #f2f2f2;
+  padding: 4px;
+     
+}
+
+#password {
+    font-size: 18px;
+    color: #2d2e30;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#input_2 {
+     border-radius: 9px;
+  background-color: #f2f2f2;
+  padding: 4px;
+     
+}
+
+#login-btn {
+    
+    
+    
+}
+
+
+#psswd_1 {
+    cursor: pointer;
+}
+
+
+
+#logo {
+    margin-left: 30%;
+}
+
+#reset {
+    
+}
+
+
+#data_1{
+    height: 100px;
+    width: 100px;
+}
+
+#data_1:hover {
+    cursor: pointer;
+}
+
+#Att_1 {
+    margin-left: 250px;    
+    height: 150px;
+    width: 150px;
+    display: none;
+}
+
+#data {
+margin-left: 300px;
+     border-radius: 4px;
+    padding:5px;
+     box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+    display: none;
+    
+}
+
+#data:hover{
+    cursor: pointer;
+}
+
+#cal_1 {
+    margin-left: 300px;
+    height:130px;
+    width:130px;
+    display: none;
+}
+#cal_1:hover{
+    cursor: pointer;
+}
+
+#day_1 {
+    margin-left: 320px;
+     border-radius: 4px;
+    padding:5px;
+     box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+display: none;
+}
+
+#day_1:hover{
+    cursor: pointer;
+}
+
+#att_id {
+    display: none;
+     font-family:  Lucida Console, Courier, monospace;
+    margin-left: 10%;;
+  color: #206ba4;
+    font-size: 0px;
+}
+
+#name_id {
+display: none;
+     font-family:  Lucida Console, Courier, monospace;
+    margin-left: 90%;;
+  color: #206ba4;
+    margin-right: 5%;
+    font-size: 25px;
+}
+
+#logout-btn {
+    display: none;
+    margin-left: 90%;
+      width: 120px;
+    height: 30px;
+    border-radius: 4px;
+float: right;
+  padding: 4px;
+    margin-right: 5%;
+    font-size: 15px;
+}
+
+#login_head {
+    display: block;
+}
+
+#login_form {
+    margin-left: 15%;
+}
+
+#grad {
+    height:1000px;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,skyblue); /* Standard syntax (must be last) */
+}
+
+#input_1 {
+     height: 35px;
+     width: 350px;
+    border-radius: 5px;
+}
+
+#input_2 {
+     height: 35px;
+     width: 350px;
+    border-radius: 5px;
+}
+
+#login_head {
+     font-family:  Lucida Console, Courier, monospace;
+    margin-left: 10%;;
+  color: #206ba4;
+    font-size: 50px;
+    
+}
+
+#login-btn {
+        margin-left: 0px;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family: serif;
+    font-size: 17px;
+    color: skyblues;
+}
+
+#logo {
+    margin-left: 35%;
+    height: 150px;
+}
+
+#username {
+    font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#password {
+    font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#grad {
+     height:1000px;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,skyblue); /* Standard syntax (must be last) */
+}
+
+#email {
+    
+}

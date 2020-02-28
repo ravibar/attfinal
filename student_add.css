@@ -1,0 +1,217 @@
+
+#logo {
+     margin-left: 30%;
+}
+
+
+
+#title_1 {
+     font-family:  Lucida Console, Courier, monospace;
+    margin-left: 100px;;
+  color: #206ba4;
+    font-size: 50px;
+}
+
+#grad1 {
+  height:1000px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,skyblue); /* Standard syntax (must be last) */
+}
+
+
+
+
+#home {
+      margin-left: 90%;
+      width: 120px;
+    height: 30px;
+    border-radius: 20px;
+
+  padding: 4px;
+     
+    font-size: 15px;
+}
+
+#logo {
+     margin-left: 35%;
+    height: 150px;
+}
+
+#home {
+        margin-left: 90%;
+      width: 120px;
+    height: 30px;
+    border-radius: 4px;
+float: right;
+  padding: 4px;
+   margin-right: 5%;
+    font-size: 15px; 
+}
+
+#logout {
+    margin-left: 90%;
+      width: 120px;
+    height: 30px;
+    border-radius: 4px;
+float: right;
+  padding: 4px;
+   margin-right: 5%;
+    font-size: 15px; 
+}
+
+#form_1 {
+    margin-left: 35%;
+}
+
+#input_1 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_2 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_3 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#course {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_4 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_5 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_6 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_10 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_9 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_7 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#input_8 {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#name {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#roll {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#sem {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#course__1 {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#f_name {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#m_name {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#f_phn {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#s_num {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#email {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#pass {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#pass1 {
+     font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#submit {
+         margin-left: 100px;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family: serif;
+    font-size: 17px;
+    color: skyblues;
+
+}
+
+#reset {
+     margin-left: 100px;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family: serif;
+    font-size: 17px;
+    color: skyblues;
+}
+
+#grad1 {
+    height:auto;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,skyblue); /* Standard syntax (must be last) */
+    
+}

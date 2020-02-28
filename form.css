@@ -1,0 +1,159 @@
+
+
+#form_2 {
+        margin-left: 20%;
+
+    
+}
+
+
+#course_1 {
+
+font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+        
+}
+
+#year_1 {
+font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+    
+}
+
+
+
+
+#logo {
+    margin-left: 35%;
+    height: 150px;
+}
+
+
+
+
+
+
+#tableGoesHere {
+    margin-left: 10%;
+    float: inherit;
+}
+
+
+
+#table {
+     margin-left: 10%;
+    float: inherit;
+}
+
+
+#logout_1 {
+    margin-left: 90%;
+      width: 120px;
+    height: 30px;
+    border-radius: 4px;
+float: right;
+  padding: 4px;
+    margin-right: 5%;
+    font-size: 15px;
+}
+
+#logout_1 {
+     margin-left: 90%;
+      width: 120px;
+    height: 30px;
+    border-radius: 4px;
+float: right;
+  padding: 4px;
+   margin-right: 5%;
+    font-size: 15px; 
+}
+
+#grad {
+     height:auto;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,skyblue); /* Standard syntax (must be last) */
+}
+
+#test2 {
+     font-family:  Lucida Console, Courier, monospace;
+    margin-left: 100px;;
+  color: #206ba4;
+    font-size: 50px;
+}
+
+#course { height: 35px;
+    width: 350px;
+    border-radius: 5px;
+    
+}
+
+#sem {
+     height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#submit {
+     margin-left: 100px;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family: serif
+    font-size: 17px;
+    color: skyblues;
+}
+
+
+#detail{
+    margin-left: 90%;
+      width: 120px;
+    height: 30px;
+    border-radius: 4px;
+float: right;
+  padding: 4px;
+    margin-right: 5%;
+    font-size: 15px;
+}
+
+#enter_att_id{
+   font-family:  Lucida Console, Courier, monospace;
+    font-size: 25px;
+}
+#att_1
+{
+    font-family:  Lucida Console, Courier, monospace;
+    font-size: 20px;
+}
+
+#select
+{
+    height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+#info_1
+{
+      margin-left: 100px;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family: serif
+    font-size: 17px;
+    color: skyblues;
+    
+}
+#get_att
+{
+     width: 120px;
+    height: 30px;
+    border-radius: 4px;
+float: right;
+  padding: 4px;
+    margin-right: 5%;
+    font-size: 15px;
+}

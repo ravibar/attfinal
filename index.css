@@ -1,0 +1,73 @@
+
+
+
+#admin-btn {
+    margin-left: 4%;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family:serif
+    font-size: 17px;
+    color: skyblues;
+}
+
+
+#teach-btn {
+    
+     margin-left: 100px;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family:serif
+    font-size: 17px;
+    color: skyblues;
+}
+
+
+#stu-btn {
+     margin-left: 100px;
+    width: 350px;
+    height: 50px;
+    border-radius: 50px;
+  background-color: white;
+  
+     font-family:serif
+    font-size: 17px;
+    color: skyblues;
+}
+
+
+
+
+#grad {
+    height:965px;
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,skyblue); /* Standard syntax (must be last) */
+}
+
+#logo {
+    margin-left: 35%;
+    height: 150px;
+}
+
+#admin_pic {
+    height: 300px;
+    width: 300px;
+    margin-left: 5.5%;
+}
+
+#teach_pic {
+    height: 300px;
+    width: 300px;
+    margin-left: 8%;
+}
+
+#stu_pic {
+    height: 300px;
+    width: 300px;
+    margin-left: 7.5%;
+}
